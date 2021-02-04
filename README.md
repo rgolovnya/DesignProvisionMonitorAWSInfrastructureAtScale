@@ -3,6 +3,7 @@
 ## Project 2 in the Udacity AWS Cloud Architect nanodegree
 
 Plan, design, provision, and monitor infrastructure in AWS using industry-standard and open source tools. Practice the skills you have learned throughout the course to optimize infrastructure for cost and performance. Use Terraform to provision and configure AWS services in a global configuration.
+
 ---
 
 ## Project  Instructions
