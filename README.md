@@ -1,13 +1,25 @@
-## Course 2: Design for Performance and Scalability
-## Project 2 in the Udacity AWS Cloud Architect nanodegree
+## Udacity AWS Cloud Architect nanodegree
+
+## Project 2  Design for Performance and Scalability
+
 
 Plan, design, provision, and monitor infrastructure in AWS using industry-standard and open source tools. Practice the skills you have learned throughout the course to optimize infrastructure for cost and performance. Use Terraform to provision and configure AWS services in a global configuration.
 
 ---
 
+## Required 
+
+- AWS CLI
+- AWS admin roles
+- Terraform
+
+
+
 ## Project  Instructions
 
-### Task 1 
+### Task 1: Create AWS Architecture Schematics 
+
+#### Part 1
 
 1. Download the [starter code](https://github.com/udacity/cand-c2-project).
 2. In the main.tf file write the code to provision
@@ -21,7 +33,7 @@ Plan, design, provision, and monitor infrastructure in AWS using industry-standa
 5. Use Terraform to  delete the 2 m4.large instances
 6. Take an updated screenshot of the AWS console showing only the 4 t2.micro instances and save it as `Terraform_1_2`
 
-### Task 1 part 2
+#### Part 2
 
 1. In the  Exercise_2 folder, write the code to deploy an AWS Lambda Function using Terraform. Your code should include:
 
