@@ -19,6 +19,10 @@ Plan, design, provision, and monitor infrastructure in AWS using industry-standa
 
 ### Task 1 Create AWS Architecture Schematics 
 
+- Cost-effective AWS infrastructure 
+
+- Serverless architecture schematic 
+
 ### Task 2 Calculate Infrastructure Costs
 
 ### Task 3 Configure Permissions
