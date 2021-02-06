@@ -19,9 +19,9 @@ Plan, design, provision, and monitor infrastructure in AWS using industry-standa
 
 ### Task 1 Create AWS Architecture Schematics 
 
-- Cost-effective AWS infrastructure 
+- Cost-effective AWS infrastructure for a new social media application development project for 50,000 single-region users.
 
-- Serverless architecture schematic 
+- Serverless architecture for a new application development project. 
 
 ### Task 2 Calculate Infrastructure Costs
 
