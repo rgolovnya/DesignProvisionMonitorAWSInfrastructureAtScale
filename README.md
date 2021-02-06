@@ -24,7 +24,7 @@ Plan, design, provision, and monitor infrastructure in AWS using industry-standa
 ### Task 2 Calculate Infrastructure Costs
 - [Initial_Cost_Estimate](task2/Initial_Cost_Estimate.csv)
 - [Reduced_Cost_Estimate](task2/Reduced_Cost_Estimate.csv)
-- [Increased_Cost Estimate](task2/Increased_Cost Estimate.csv)
+- [Increased_Cost Estimate](task2/Increased_Cost_Estimate.csv)
 
 ### Task 3 Configure Permissions
 - [udacity_password_policy](task3/udacity_password_policy.png)
