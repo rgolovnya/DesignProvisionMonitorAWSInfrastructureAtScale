@@ -17,7 +17,7 @@ Plan, design, provision, and monitor infrastructure in AWS using industry-standa
 
 ## Project  
 
-### Task 1: Create AWS Architecture Schematics 
+### Task 1 Create AWS Architecture Schematics 
 
 ### Task 2 Calculate Infrastructure Costs
 
