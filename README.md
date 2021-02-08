@@ -12,9 +12,6 @@ Plan, design, provision, and monitor infrastructure in AWS using industry-standa
 - Terraform
 
 
-
-## Project  
-
 ### Task 1 Create AWS Architecture Schematics 
 - Cost-effective AWS infrastructure for a new social media application development project for 50,000 single-region users. [Diagram_1](task1/Udacity_Diagram_1.pdf)
 - Serverless architecture for a new application development project. Udacity_Diagram_2.pdf [Diagram_2](task1/Udacity_Diagram_2.pdf)
