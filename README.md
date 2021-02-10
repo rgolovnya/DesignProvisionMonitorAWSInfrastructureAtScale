@@ -29,4 +29,4 @@ Plan, design, provision, and monitor infrastructure in AWS using industry-standa
 
 ### Task 5 Use Terraform to Provision AWS Infrastructure
 
-### Task 6 Destroy the Infrastructure using Terraform and prepare for submission
+
