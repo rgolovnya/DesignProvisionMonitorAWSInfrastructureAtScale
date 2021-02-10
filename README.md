@@ -22,7 +22,7 @@ Plan, design, provision, and monitor infrastructure in AWS using industry-standa
 
 ### Task 3 Configure Permissions
 - [udacity_password_policy](Task3/udacity_password_policy.PNG)
-
+- [UdacityCloudTrailLog](Task3/UdacityCloudTrailLog.csv)
 ### Task 4 Set up Cost Monitoring
 - [CloudWatch_alarm](Task4/CloudWatch_alarm.PNG)
 
